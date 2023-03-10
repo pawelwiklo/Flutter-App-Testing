@@ -1,16 +1,9 @@
-# app_testing
+# Flutter app testing
 
-A new Flutter project.
+Implementation of Flutter testing [codelab](https://codelabs.developers.google.com/codelabs/flutter-app-testing)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This includes:
+- Unit tests
+- Widget tests
+- Integration tests with integration_test library
+- Performance tests
